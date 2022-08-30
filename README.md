@@ -11,7 +11,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: [Page Frontend Mentor]()
-- Live Site URL: [Page Public]()
+- Live Site URL: [Page Public](https://frontendmentor-profile-card-component-main-nu.vercel.app/)
 
 ### Built with
 
